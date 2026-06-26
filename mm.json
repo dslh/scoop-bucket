@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dslh/mm/releases/download/v1.0.0/mm_1.0.0_windows_amd64.zip",
+            "bin": [
+                "mm.exe"
+            ],
+            "hash": "2d749dc609bba1f84612f37a9d3c0436a79bb26786ea9c57100523b36574a497"
+        },
+        "arm64": {
+            "url": "https://github.com/dslh/mm/releases/download/v1.0.0/mm_1.0.0_windows_arm64.zip",
+            "bin": [
+                "mm.exe"
+            ],
+            "hash": "d8dc3c3143d15131dd71dffaab5e37fd8e9e6ed6a533d50c7e8a34ec48d27e3c"
+        }
+    },
+    "homepage": "https://github.com/dslh/mm",
+    "license": "MIT",
+    "description": "CLI + MCP server for the mon-marché.fr grocery (cart only)"
+}
