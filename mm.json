@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dslh/mm/releases/download/v1.2.0/mm_1.2.0_windows_amd64.zip",
+            "url": "https://github.com/dslh/mm/releases/download/v1.2.1/mm_1.2.1_windows_amd64.zip",
             "bin": [
                 "mm.exe"
             ],
-            "hash": "0a48c0dc165e22e32e9be4d6c683402ab65e20ed7b93a4fd6f083971b9944584"
+            "hash": "dd6c53a3467dae3ce4ff42a638f2381e56de52e2e6214728edc5fb64a7d0f74b"
         },
         "arm64": {
-            "url": "https://github.com/dslh/mm/releases/download/v1.2.0/mm_1.2.0_windows_arm64.zip",
+            "url": "https://github.com/dslh/mm/releases/download/v1.2.1/mm_1.2.1_windows_arm64.zip",
             "bin": [
                 "mm.exe"
             ],
-            "hash": "36fd0f7724dba17ce82cd775435f71bd0fd48e8d9a107e3715a00e079877550e"
+            "hash": "95a6520b81c91237365b70f3f221d98146597256f2371dfa5a0bd5fd382fed93"
         }
     },
     "homepage": "https://github.com/dslh/mm",
