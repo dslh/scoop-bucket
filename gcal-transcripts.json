@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dslh/gcal-transcripts/releases/download/v0.1.0/gcal-transcripts_0.1.0_windows_amd64.zip",
+            "bin": [
+                "gcal-transcripts.exe"
+            ],
+            "hash": "4fffac2b3e939c5af79fed809ae06dca8484a531e0ce5336e8ad69edb0131c0c"
+        },
+        "arm64": {
+            "url": "https://github.com/dslh/gcal-transcripts/releases/download/v0.1.0/gcal-transcripts_0.1.0_windows_arm64.zip",
+            "bin": [
+                "gcal-transcripts.exe"
+            ],
+            "hash": "83ded395c62eb458642d4809400d087edb2a7a7968a01ab718886969d95421a6"
+        }
+    },
+    "homepage": "https://github.com/dslh/gcal-transcripts",
+    "license": "MIT",
+    "description": "Download Google Calendar meeting transcripts as markdown"
+}
