@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dslh/gcal-transcripts/releases/download/v0.1.0/gcal-transcripts_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/dslh/gcal-transcripts/releases/download/v0.1.1/gcal-transcripts_0.1.1_windows_amd64.zip",
             "bin": [
                 "gcal-transcripts.exe"
             ],
-            "hash": "4fffac2b3e939c5af79fed809ae06dca8484a531e0ce5336e8ad69edb0131c0c"
+            "hash": "e542bb69ba77f8395fe1b3028c3e902f952bc1c425167119e8f58c117d60e4f9"
         },
         "arm64": {
-            "url": "https://github.com/dslh/gcal-transcripts/releases/download/v0.1.0/gcal-transcripts_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/dslh/gcal-transcripts/releases/download/v0.1.1/gcal-transcripts_0.1.1_windows_arm64.zip",
             "bin": [
                 "gcal-transcripts.exe"
             ],
-            "hash": "83ded395c62eb458642d4809400d087edb2a7a7968a01ab718886969d95421a6"
+            "hash": "76a9c30af24dd8aad4180828c668f75be288a90c4845ed150b580ac89d80c04c"
         }
     },
     "homepage": "https://github.com/dslh/gcal-transcripts",
